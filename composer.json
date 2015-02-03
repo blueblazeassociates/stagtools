@@ -1,0 +1,26 @@
+{
+  "name" : "blueblazeassociates/stagtools",
+  "description" : "StagTools is a powerful plugin to extend functionality to your WordPress themes offering shortcodes, FontAwesome icons and useful widgets.",
+  "type" : "wordpress-plugin",
+  "homepage" : "https://wordpress.org/plugins/stagtools/",
+  "license" : "GPL-2.0+",
+  "keywords" : [
+    "codestag",
+    "custom post type",
+    "flickr",
+    "font icons",
+    "fontawesome",
+    "icons",
+    "instagram",
+    "maps",
+    "mauryaratan",
+    "retina",
+    "shortcodes",
+    "sidebar",
+    "social",
+    "social media",
+    "themeforest",
+    "twitter",
+    "widget"
+  ]
+}
