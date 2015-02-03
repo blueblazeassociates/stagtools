@@ -1,3 +1,9 @@
 *.DS_Store
 .sass-cache/
 config.codekit
+
+.gitignore
+.settings
+.project
+composer
+composer.phar
