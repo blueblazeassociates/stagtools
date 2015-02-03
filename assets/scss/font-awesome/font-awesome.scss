@@ -1,9 +1,7 @@
 /*!
- *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-
-$stag-css-prefix: stag-icon;
 
 @import "variables";
 @import "mixins";
@@ -13,7 +11,7 @@ $stag-css-prefix: stag-icon;
 @import "fixed-width";
 @import "list";
 @import "bordered-pulled";
-@import "spinning";
+@import "animated";
 @import "rotated-flipped";
 @import "stacked";
 @import "icons";
